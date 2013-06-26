@@ -1,0 +1,36 @@
+kod
+===
+
+https://fathomless-woodland-2340.herokuapp.com/
+ <style type="text/css">
+@import url(http://www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-bottom" style="background-color:#000000;color:#FFFFFF">
+  <div class="cse-branding-form">
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      'partner-pub-5723406236692963:we1tls-ti1f',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+    <form action="http://www.google.com/cse" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-5723406236692963:we1tls-ti1f" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="text" name="q" id="q" autocomplete="off" size="31" />
+        <input type="submit" name="sa" value="Search" />
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="http://www.google.com/images/poweredby_transparent/poweredby_000000.gif" alt="Google" />
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>
