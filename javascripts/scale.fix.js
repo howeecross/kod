@@ -17,4 +17,11 @@ fixScale = function(doc) {
 		doc[addEvent](type, fix, true);
 	}
 
-};
+};<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5723406236692963:we1tls-ti1f" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" id="q" autocomplete="off" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
